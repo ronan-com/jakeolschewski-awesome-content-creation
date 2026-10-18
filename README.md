@@ -102,6 +102,7 @@ Whether you're building a YouTube channel, growing on TikTok, writing newsletter
 - [Claude](https://claude.ai/) — Long-form writing, research synthesis, and content strategy.
 - [Perplexity](https://www.perplexity.ai/) — AI search engine. Great for research-backed content.
 - [Gemini](https://gemini.google.com/) — Google's multimodal AI for text, image, and code.
+- [T-Social](https://t-social.me/creators/) - Telegram Mini App where creators share short clips and AI chat characters (18+).
 
 ### Image Generation
 - [Midjourney](https://www.midjourney.com/) — AI image generation via Discord. Best for artistic and stylized images.
